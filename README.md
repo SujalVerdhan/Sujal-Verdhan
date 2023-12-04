@@ -1,4 +1,4 @@
-# Sujal-Verdhan
+#Sujal Verdhan
 
 # Code Artisan | Web Developer 💻✨
 
