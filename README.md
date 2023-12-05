@@ -28,4 +28,4 @@ I thrive on turning innovative ideas into functional and aesthetically pleasing 
 
 ## 📚 Always Learning
 
-Currently exploring the wonders of [Technology/Framework]. I believe in the power of continuous learning to stay ahead in the ever-evolving tech landscape.
+Currently exploring the wonders of React JS. I believe in the power of continuous learning to stay ahead in the ever-evolving tech landscape.
